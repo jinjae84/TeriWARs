@@ -2,7 +2,10 @@
 .utmp/
 /Library/
 Library/
-
+/Logs/
+Logs/
+/Temp/
+Temp/
 # Visual Studio cache directory
 .vs/
 
